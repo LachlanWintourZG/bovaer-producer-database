@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Bovaer® Producer Database
+description: A database of Australian beef and dairy producers using and not using Bovaer®
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

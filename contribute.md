@@ -4,9 +4,11 @@ title: Bovaer® Producer Database
 description: A database of Australian beef and dairy producers using and not using Bovaer®
 ---
 
+[← Back to home](https://lachlanwintourzg.github.io/bovaer-producer-database/)
+
 # Contribute to the Database
 
-If you have come across a statement from a company regarding their use of Bovaer®, please report this using the following link:
+If you have come across a statement from a company regarding their use of Bovaer®, please report this using the following form.
 
 Thank you for your contribution!
 
