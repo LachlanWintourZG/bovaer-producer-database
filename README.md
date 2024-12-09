@@ -10,7 +10,7 @@
 
 ## Contributing to the database
 
-If you have come across a statement from a company saying they do or do not use Bovaer® in their products, please contribute to the database via the following link:
+If you have come across a statement from a company regarding their use of Bovaer®, please contribute to the database via the following link:
 
 [![ContributeButton]][ContributeLink]
 <!----------------------------------------------------------------------------->
@@ -19,7 +19,7 @@ If you have come across a statement from a company saying they do or do not use 
 [ContributeButton]: https://img.shields.io/badge/Contribute%20to%20the%20Database-teal
 
 ## Report Incorrect Information / General Enquiries
-If you come across incorrect information on the site, or wish to contact the site's maintainer, please fill out a general request via the following link.
+If you come across incorrect information     on the site, or wish to contact the site's maintainer, please fill out a general request via the following link:
 
 [![GEButton]][GELink]
 <!----------------------------------------------------------------------------->
