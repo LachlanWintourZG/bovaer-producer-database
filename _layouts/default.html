@@ -19,7 +19,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="https://lachlanwintourzg.github.io/bovaer-producer-database/database" class="btn">Access the Database</a>
+        <a href="https://lachlanwintourzg.github.io/bovaer-producer-database/database-home" class="btn">Access the Database</a>
         <a href="https://lachlanwintourzg.github.io/bovaer-producer-database/contribute" class="btn">Contribute to the Database</a>
         <a href="https://lachlanwintourzg.github.io/bovaer-producer-database/general-enquiry" class="btn">General Enquiry</a>
       {% endif %}
@@ -33,10 +33,8 @@
       {{ content }}
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner">The <a href="{{ site.github.repository_url }}">Bovaer® Producer Database</a> is maintained by <a href="https://lachlanwintour.com">Lachlan Wintour</a>.</span>
-        {% endif %}
         <p><i>Bovaer® is a registered trademark of dsm-firmenich.</i></p>
+        <span class="site-footer-owner">The <a href="{{ site.github.repository_url }}">Bovaer® Producer Database</a> is maintained by <a href="https://lachlanwintour.com">Lachlan Wintour</a>.</span>
       </footer>
     </main>
   </body>
